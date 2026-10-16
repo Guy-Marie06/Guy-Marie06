@@ -19,7 +19,7 @@ I'm using GitHub to document my learning journey, share academic projects, and c
 
 Programming Languages
 
-"Java" (https://img.shields.io/badge/Java-Learning-orange?logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-Learning-orange?logo=openjdk&logoColor=white)
 "PHP" (https://img.shields.io/badge/PHP-Learning-777BB4?logo=php&logoColor=white)
 "Python" (https://img.shields.io/badge/Python-Learning-3776AB?logo=python&logoColor=white)
 "C" (https://img.shields.io/badge/C-Learning-A8B9CC?logo=c&logoColor=black)
